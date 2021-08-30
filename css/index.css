@@ -1,0 +1,54 @@
+.card {
+    width: 800px;
+    border: none;
+}
+
+.largePhoto {
+ width:500px; 
+ margin-top: 3%;
+ margin-right: 5%;
+ box-shadow: 5px 5px 2px gray;
+ float:left;
+}
+.mediumPhoto {
+    width:300px; 
+    margin-top: 3%;
+    margin-right: 5%;
+    box-shadow: 3px 3px 2px gray;
+    float:right;
+   }
+
+#careerButton {
+    color: white;
+    background-color: #02537e;
+    box-shadow: 2px 2px 1px gray;
+}
+
+
+a {
+    color:white;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.card {
+    text-align: center;
+    background-color: lightgray;
+
+}
+
+.home-link{
+    color:blue;
+}
+
+.card-deck{
+    background-color: lightgray;
+}
