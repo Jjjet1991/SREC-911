@@ -17,11 +17,11 @@ this.innerHTML = `
         <ul class="navbar-nav mr-auto">
             <!--Link to Home-->
             <li class="nav-item">
-                <a href="#" class="nav-link">Home</a>
+                <a href="./index.html" class="nav-link">Home</a>
             </li>
             <!--Link to About-->
             <li class="nav-item">
-                <a href="#" class="nav-link">About</a>
+                <a href="./about.html" class="nav-link">About</a>
             </li>
             <!--Link to About-->
             <li class="nav-item">

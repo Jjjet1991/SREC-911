@@ -1,6 +1,11 @@
 .card {
-    width: 800px;
+    width: auto;
     border: none;
+}
+.large-card {
+    width:auto;
+    margin: 0 auto;
+    margin-top:10px;
 }
 
 .largePhoto {
@@ -11,7 +16,7 @@
  float:left;
 }
 .mediumPhoto {
-    width:300px; 
+    width:400px; 
     margin-top: 3%;
     margin-right: 5%;
     box-shadow: 3px 3px 2px gray;
@@ -51,4 +56,8 @@ hr.style-two {
 
 .card-deck{
     background-color: lightgray;
+}
+
+.container {
+    width: auto;
 }
