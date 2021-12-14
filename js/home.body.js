@@ -33,7 +33,7 @@ this.innerHTML = `
     <div class="card-deck">        
         <div class="card">
             <br>
-            <i class="fa fa-phone fa-5x" aria-hidden="true"></i>
+            <i class="fa fa-phone fa-4x" aria-hidden="true"></i>
           <div class="card-body">
             <h5 class="card-title">Crime Check</h5>
             <p class="card-text"><p>Crime Check is our non-emergency line, used to file police report and field other

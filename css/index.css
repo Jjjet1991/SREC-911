@@ -50,14 +50,31 @@ hr.style-two {
 
 }
 
-.home-link{
-    color:blue;
-}
 
 .card-deck{
     background-color: lightgray;
+    width: 100%;
 }
 
 .container {
-    width: auto;
+    width: 100%;
+}
+
+footer {
+    background-color: #02537e;
+    font-size: 16px;
+    color:white;
+    text-align: center;
+    height: 210px;
+    width:100%;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.footer-list {
+    list-style-type: none;
+    font-size: 16px;
+}
+.fa {
+    margin: 2.5px;
 }
