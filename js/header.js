@@ -37,7 +37,7 @@ this.innerHTML = `
         <ul class="nav navbar-nav navbar-right">
             <!--Link for Careers-->
           <li class="nav-item">
-            <a href="#" class="nav-link">Report a Crime</a>
+            <a href="./file-report.html" class="nav-link">Report a Crime</a>
           </li>
         </ul>
     </nav>

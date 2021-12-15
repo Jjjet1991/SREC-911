@@ -28,10 +28,31 @@
     background-color: #02537e;
     box-shadow: 2px 2px 1px gray;
 }
+#careerButton:hover{
+    background-color: gray;
+    color:black;
+}
+
+.apply{
+    color:white;
+    background-color: #02537e;
+    box-shadow: 2px 2px 1px gray;
+    border-radius: 8px;
+    font-size:15px;
+}
+.apply:hover{
+    background-color: gray;
+    color:black;
+}
 
 
 a {
     color:white;
+}
+
+a:hover{
+    color:black;
+    background-color: gray;
 }
 
 h1 {
@@ -79,3 +100,20 @@ footer {
     margin: 2.5px;
 }
 
+.badge{
+    background-color: white;
+}
+.badge-button{
+    border-radius: 8px;
+    font-size:17px;
+    padding:15px;
+    width:175px;
+    box-shadow: 5px 5px 5px black;
+    background-color: #02537e;
+    color:white;
+}
+
+.badge-button:hover{
+    background-color: gray;
+    color:black;
+}
