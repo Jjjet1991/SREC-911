@@ -9,7 +9,7 @@ connectedCallback() {
 this.innerHTML = `       
 <!--Above navbar logo image-->
 <div>
-    <img src="./images/image001.png" alt="" style="padding:5px">
+    <img src="./images/logo.png" alt="" style="padding:5px">
 </div>
 <div>
     <!--NavBar--left hand side-->
@@ -23,9 +23,9 @@ this.innerHTML = `
             <li class="nav-item">
                 <a href="./about.html" class="nav-link">About</a>
             </li>
-            <!--Link to About-->
+            <!--Link to Careers-->
             <li class="nav-item">
-                <a href="#" class="nav-link">Careers</a>
+                <a href="./careers.html" class="nav-link">Careers</a>
             </li>
             <!--Link for Contact-->
             <li class="nav-item">
