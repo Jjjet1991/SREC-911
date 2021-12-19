@@ -29,7 +29,7 @@ this.innerHTML = `
             </li>
             <!--Link for Contact-->
             <li class="nav-item">
-                <a href="#" class="nav-link">Contact</a>
+                <a href="./contact.html" class="nav-link">Contact</a>
             </li>
         </ul>
 
