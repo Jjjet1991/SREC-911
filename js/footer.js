@@ -8,7 +8,7 @@ class Footer extends HTMLElement{
 <footer>
   <div>
     <ul class="footer-list">
-      <li style="font-size:20px;">Spokane Regional Emergency Communications</li>
+      <li style="font-size:20px;font-family: 'Viga', sans-serif;">Spokane Regional Emergency Communications</li>
       <li><em>Phone: 509-532-8911</em></li>
       <li><em>Fax: 509-535-6719</em></li>
       <br>
