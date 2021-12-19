@@ -35,10 +35,11 @@ this.innerHTML = `
 
          <!--NavBar--right hand side-->
         <ul class="nav navbar-nav navbar-right">
-            <!--Link for Careers-->
+            <!--Link for Report a Crime-->
           <li class="nav-item">
             <a href="./file-report.html" class="nav-link">Report a Crime</a>
           </li>
+          
         </ul>
     </nav>
 </div>        
