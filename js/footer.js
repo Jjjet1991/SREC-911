@@ -14,7 +14,7 @@ class Footer extends HTMLElement{
       <br>
       <li><a href="#" class="fa fa-facebook fa-2x"></a>  
         <a href="#" class="fa fa-twitter fa-2x"></a>
-        <a href="#" class="fa fa-instagram fa-2x"></a>
+        <a href="https://www.instagram.com/spokane.srec.911" target="blank" class="fa fa-instagram fa-2x"></a>
       </li>
       <br>
       <li><span style="font-size:10px;"><em>Copyright 	&copy; SREC911 - All Rights Reserved</em></span></li>
