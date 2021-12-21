@@ -154,3 +154,7 @@ h4,h2 {
 .about {
     margin: 12px;
 }
+
+td.number {
+    width: 25%;
+}
